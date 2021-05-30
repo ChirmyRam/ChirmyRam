@@ -16,7 +16,10 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ## 🏆 My Trophies
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChirmyRam&theme=flat&no-frame=true&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+  </a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChirmyRam&theme=flat&no-frame=true&column=9)]()
 </p>
 
 ## 🔥 Streak Stats
