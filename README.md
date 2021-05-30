@@ -12,10 +12,8 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 - 📝 My blog: [https://www.chirmyram.top](https://www.chirmyram.top)
 - 📫 My email: office@chirmyram.top
 
-
 ## 📊 Profile Stats
 ![ChirmyRam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChirmyRam&theme=vue-dark&show_icons=true)
-
 
 ## 🏆 My Trophies
 <p align="left">
@@ -24,14 +22,12 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   </a>
 </p>
 
-
 ## 🔥 Streak Stats
 <p align="left">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=ChirmyRam&theme=gruvbox&hide_border=true&background=07183DF7&fire=DD2727&ring=19BCDD&dates=2DCBDD&currStreakNum=DDAB07"/>
   </a>
 </p>
-
 
 ## ⚡ Contribution Graph
 <p align="left">
