@@ -10,7 +10,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ## 🙋‍♂️ Connect with me
 - 📝 I regularly write articles on [https://www.chirmyram.top](https://www.chirmyram.top)
-- 📫 Email me **office@chirmyram.top**
+- 📫 Email me office@chirmyram.top
 
 ## 📊 Profile Stats
 ![ChirmyRam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChirmyRam&theme=vue-dark&show_icons=true)
