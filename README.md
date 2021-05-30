@@ -8,7 +8,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </p>
 
 ## 🙋‍♂️ Connect with me
-- 📝 I regularly write articles on [https://www.chirmyram.top](https://www.chirmyram.top)
+- 📝 I regularly write articles on [My Blog](https://www.chirmyram.top)
 - 📫 How to reach me **office@chirmyram.top**
 
 ## 📊 Profile Stats
