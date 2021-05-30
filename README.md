@@ -21,17 +21,12 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   </a>
 </p>
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
-
-
 ## 🔥 Streak Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChirmyRam&theme=gruvbox&hide_border=true&background=07183DF7&fire=DD2727&ring=19BCDD&dates=2DCBDD&currStreakNum=DDAB07)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ChirmyRam&theme=gruvbox&hide_border=true&background=07183DF7&fire=DD2727&ring=19BCDD&dates=2DCBDD&currStreakNum=DDAB07"/>
+  </a>
+</p>
 
 ## ⚡ Recent Activity
 [![ChirmyRam's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChirmyRam&theme=github&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
