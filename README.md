@@ -2,7 +2,7 @@
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm ChirmyRam
 </h1>
 
-<p align="center">
+<p align="left">
   <a href="https://readme-typing-svg.herokuapp.com/demo/">
     <img src="https://readme-typing-svg.herokuapp.com?color=0C697A&lines=This+is+ChirmyRam's+github+profile."/>
 </p>
