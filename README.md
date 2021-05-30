@@ -12,6 +12,12 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 - 📝 My blog: [https://www.chirmyram.top](https://www.chirmyram.top)
 - 📫 My email: office@chirmyram.top
 
+## 🖥️ My Platforms
+[![](https://img.shields.io/badge/OS-Deepin-33aadd?style=flat-square&logo=deepin&logoColor=ffffff)](https://www.deepin.org/)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/ChirmyRam)
+
 ## 📊 Profile Stats
 ![ChirmyRam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChirmyRam&theme=vue-dark&show_icons=true)
 
