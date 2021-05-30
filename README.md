@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ChirmyRam</h1>
-<h3 align="center">I'm a github user.</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=10B5AE&center=true&vCenter=true&lines=This+is+ChirmyRam's+github+profile.)](https://git.io/typing-svg)
 
 - 📝 I regularly write articles on [https://www.chirmyram.top](https://www.chirmyram.top)
 
