@@ -8,9 +8,8 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </p>
 
 ## 🙋‍♂️ Connect with me
-  
-- 📝 I regularly write articles on [My Blog](https://www.chirmyram.top)
-- 📫 How to reach me **office@chirmyram.top**
+- 📝 I regularly write articles on [https://www.chirmyram.top](https://www.chirmyram.top)
+- 📫 Email me **office@chirmyram.top**
 
 ## 📊 Profile Stats
 ![ChirmyRam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChirmyRam&theme=vue-dark&show_icons=true)
