@@ -11,11 +11,16 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 - 📝 I regularly write articles on [https://www.chirmyram.top](https://www.chirmyram.top)
 - 📫 How to reach me **office@chirmyram.top**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChirmyRam&theme=flat&no-frame=true&column=9)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🔥 Streak stats
+## 📊 Profile Stats
 ![ChirmyRam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChirmyRam&theme=vue-dark&show_icons=true)
+
+## 🏆 My Trophies
+<p align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChirmyRam&theme=flat&no-frame=true&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+
+## 🔥 Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChirmyRam&theme=gruvbox&hide_border=true&background=07183DF7&fire=DD2727&ring=19BCDD&dates=2DCBDD&currStreakNum=DDAB07)](https://git.io/streak-stats)
 
-## 📊 Github stats
+## ⚡ Recent Activity
 [![ChirmyRam's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChirmyRam&theme=github&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
