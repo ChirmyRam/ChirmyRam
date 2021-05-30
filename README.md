@@ -6,9 +6,9 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=13A3BD&lines=This+is+ChirmyRam+github+profile."></a>
 </p>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?color=10B5AE&center=true&vCenter=true&lines=This+is+ChirmyRam's+github+profile"></a>
+  <a href="https://readme-typing-svg.herokuapp.com/demo/">
+    <img src="https://readme-typing-svg.herokuapp.com?color=10B5AE&center=true&vCenter=true&lines=This+is+ChirmyRam's+github+profile"/>
 </p>
 
 ## 🙋‍♂️ Connect with me
