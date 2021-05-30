@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ChirmyRam</h1>
 
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=10B5AE&center=true&vCenter=true&lines=This+is+ChirmyRam's+github+profile." />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=10B5AE&center=true&vCenter=true&lines=This+is+ChirmyRam's+github+profile.)](https://git.io/typing-svg)
 
